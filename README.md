@@ -6,8 +6,8 @@
 
 This repository contains the following items for NM EPSCOR Project.
 
-1. 
+1. [Time Series Datasets (Univariate / multivariate)](https://github.com/adbashir/NM_EPSCOR_TimeSeries_Supermarket_NTSS/wiki/Time-Series-Datasets)
 
-1. [How to access, visualize and download data from Grafana. ](https://github.com/adbashir/NM_EPSCOR_TimeSeries_Supermarket_NTSS/wiki/NMEPSCOR---Grafana-Dashboard)
+3. [How to access, visualize and download data from Grafana. ](https://github.com/adbashir/NM_EPSCOR_TimeSeries_Supermarket_NTSS/wiki/NMEPSCOR---Grafana-Dashboard)
 
-2. [Running InfluxDB and Grafana using dockers. ](https://github.com/adbashir/NM_EPSCOR_TimeSeries_Supermarket_NTSS/wiki/How-to-install-influxdb-and-grafana-stack-with-VM-and-dockers)
+4. [Running InfluxDB and Grafana using dockers. ](https://github.com/adbashir/NM_EPSCOR_TimeSeries_Supermarket_NTSS/wiki/How-to-install-influxdb-and-grafana-stack-with-VM-and-dockers)
