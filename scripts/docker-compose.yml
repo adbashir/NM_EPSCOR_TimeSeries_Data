@@ -1,1 +1,31 @@
+grafana:
+    image: matisq/grafana:latest
+    ports:
+        - 3000:3000
+    links:
+        - influxdb:influxdb
+    environment:
+        GF_SECURITY_ADMIN_USER: admin
+        GF_SECURITY_ADMIN_PASSWORD: admin
+        GF_SECURITY_SECRET_KEY: epscor
+        GF_USERS_ALLOW_SIGN_UP: "true"
+        GF_USERS_ALLOW_ORG_CREATE: "true"
+        GF_AUTH_ANONYMOUS_ENABLED: "true"
+        GF_AUTH_ANONYMOUS_ORG_NAME: epscor
+        GF_DASHBOARDS_JSON_ENABLED: "true"
+        GF_DASHBOARDS_JSON_PATH: /opt/grafana
+    volumes_from:
+        - grafana-data
+    restart: always
 
+influxdb:
+    image: matisq/influxdb:latest
+    ports:
+        - 8083:8083
+        - 8086:8086
+    environment:
+        INFLUX_DATABASE: "pyranometer"
+        INLFUX_ADMIN_USER: "pyro"
+        INFLUX_ADMIN_PASS: "pyro"
+    volumes_from:
+        - influxdb-data
