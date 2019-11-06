@@ -4,7 +4,7 @@
 
 #### Trilce P. Estrada, Adnan Bashir
 
-This repository contains the following for NM EPSCOR Project.
+This repository contains the following items for NM EPSCOR Project.
 
 1. 
 
