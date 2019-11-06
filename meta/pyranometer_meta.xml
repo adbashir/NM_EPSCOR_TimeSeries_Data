@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+    version="3.5">
+    <titleInfo>
+        <title>Pyranometer_data</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="family">Bashir</namePart>
+        <namePart type="given">Adnan</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">illustrator</roleTerm>
+            <roleTerm authority="marcrelator" type="code">ill</roleTerm>
+        </role>
+    </name>
+    <name type="corporate">
+        <namePart>University of New Mexico</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            <roleTerm authority="marcrelator" type="code">cre</roleTerm>
+        </role>
+    </name>
+    <genre type="dct">dataset</genre>
+    <location>
+        <url>http://www.sultana.cs.unm.edu</url>
+    </location>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">xxu</placeTerm>
+        </place>
+        <publisher>Manel  Martinez-Ramon</publisher>
+    </originInfo>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <location>
+        <physicalLocation>University of New Mexico</physicalLocation>
+    </location>
+    <originInfo>
+        <dateCaptured>12-07-2012 to 01-20-2019</dateCaptured>
+    </originInfo>
+    <subject>
+        <temporal>12-07-2012 to 01-20-2019</temporal>
+    </subject>
+    <subject>
+        <topic>Pyranometer</topic>
+    </subject>
+    <subject>
+        <topic>Time-series</topic>
+    </subject>
+    <recordInfo>
+        <descriptionStandard>rda</descriptionStandard>
+        <recordContentSource authority="marcorg">UIU</recordContentSource>
+        <recordCreationDate encoding="marc">191106</recordCreationDate>
+    </recordInfo>
+</mods:mods>
