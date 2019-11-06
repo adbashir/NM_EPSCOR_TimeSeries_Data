@@ -2,8 +2,7 @@
 
 ### Data Science Group - University of New Mexico
 
-#### Advisor: Trilce P. Estrada
-#### Graduate Student: Adnan Bashir
+#### Trilce P. Estrada, Adnan Bashir
 
 1. [How to access, visualize and download data from Grafana. ](https://github.com/adbashir/NM_EPSCOR_TimeSeries_Supermarket_NTSS/wiki/NMEPSCOR---Grafana-Dashboard)
 
