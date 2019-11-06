@@ -1,4 +1,4 @@
-# This repository contains wiki pages for the following:
+# Timeseries Supermarket for NMEPSCOR (TSN)
 
 1. [How to access, visualize and download data from Grafana. ](https://github.com/adbashir/NM_EPSCOR_TimeSeries_Supermarket_NTSS/wiki/NMEPSCOR---Grafana-Dashboard)
 
