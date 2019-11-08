@@ -1,5 +1,6 @@
 # this script download 
 # modified from : http://www.blog.pythonlibrary.org/2012/10/26/python-101-how-to-move-files-between-servers/
+# "path2image" is the column header with links if you have downloaded it from grafana , Can be changed in csv file with all the links 
 
 #!/usr/bin/env python
 # coding: utf-8
