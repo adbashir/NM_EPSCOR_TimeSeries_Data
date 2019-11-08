@@ -1,8 +1,8 @@
+# this script download 
+
+
 #!/usr/bin/env python
 # coding: utf-8
-
-# In[6]:
-
 
 import os
 import pandas as pd
@@ -58,22 +58,20 @@ class SSHConnection(object):
             self.sftp_open = False
         self.transport.close()
 
-df = pd.read_csv('/home/dsvm/Desktop/nov_19/data/image_links.csv')
-df.head(5)
-
-
-
- 
+        
 if __name__ == "__main__":
-    host = "sultana.cs.unm.edu"
-    username = "adnan"
-    pw = "P@ssw0rd!"
-    
+    host = "veyron.cs.unm.edu"
+    # fill these three variables 
+   ##############################################
+    username = "your cs username"
+    pw = "your account pwd"
+    df = pd.read_csv('file with images' links')
+   ##############################################                  
     list = []
     for index, link in df.iterrows():
  
         origin = df.iloc[index]['path2image']
-        dst = '/home/dsvm/Desktop/nov_19/scripts/' + df.iloc[index]['Time']
+        dst = 'local host folder' + df.iloc[index]['Time']
  
         ssh = SSHConnection(host, username, pw)
         ssh.get(origin,dst)
