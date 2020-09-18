@@ -1,0 +1,42 @@
+[
+ {
+   "Properties": "Start Date/Time",
+   "FIELD2": "2017-12-07 15:35:10.960246"
+ },
+ {
+   "Properties": "End Date/Time",
+   "FIELD2": "2019-01-20 22:50:17.640944"
+ },
+ {
+   "Properties": "Instances",
+   "FIELD2": "26,867,704"
+ },
+ {
+   "Properties": "Frequency / Resolution",
+   "FIELD2": "0.280242 seconds"
+ },
+ {
+   "Properties": "Data Description",
+   "FIELD2": "Univariate Time Series - Each instance has a timestamp and value - Value is pyranometer reading ( solar irradiance on a planar surface and it is designed to measure the solar radiation flux density (W/m2)"
+ },
+ {
+   "Properties": "Physical Location of Sensor",
+   "FIELD2": "University of New Mexico"
+ },
+ {
+   "Properties": "Data Location",
+   "FIELD2": "University of New Mexico"
+ },
+ {
+   "Properties": "Creator",
+   "FIELD2": "Manel Martinez-Ramon"
+ },
+ {
+   "Properties": "Creator (Organization)",
+   "FIELD2": "University of New Mexico"
+ },
+ {
+   "Properties": "Sponsor",
+   "FIELD2": "EPSCOR"
+ }
+]
