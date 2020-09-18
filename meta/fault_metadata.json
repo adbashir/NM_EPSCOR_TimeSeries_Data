@@ -1,44 +1,58 @@
 [
   {
-    "Properties ,   Values": "Start Date/Time  ,  0 Seconds"
+    "Properties": "Start Date/Time",
+    "Values": "0 Seconds"
   },
   {
-    "Properties ,   Values": "End Date/Time   ,"
+    "Properties": "End Date/Time",
+    "Values": "2.5 Seconds"
   },
   {
-    "Properties ,   Values": "Instances     ,"
+    "Properties": "Instances",
+    "Values": "20 sets of 9602 multivariate time series"
   },
   {
-    "Properties ,   Values": "Frequency / Resolution  ,"
+    "Properties": "Frequency / Resolution",
+    "Values": "0.26 milliseconds"
   },
   {
-    "Properties ,   Values": "Data Type       ,"
+    "Properties": "Data Type",
+    "Values": "Numeric"
   },
   {
-    "Properties ,   Values": "Data Description"
+    "Properties": "Data Description",
+    "Values": "CSV"
   },
   {
-    "Properties ,   Values": "Physical Location of Sensor"
+    "Properties": "Physical Location of Sensor",
+    "Values": "NMSU"
   },
   {
-    "Properties ,   Values": "Data Location          ,"
+    "Properties": "Data Location",
+    "Values": "University of New Mexico"
   },
   {
-    "Properties ,   Values": "Creator               ,"
+    "Properties": "Creator",
+    "Values": "Olga"
   },
   {
-    "Properties ,   Values": "Creator (Organization) ,"
+    "Properties": "Creator (Organization)",
+    "Values": "NMSU"
   },
   {
-    "Properties ,   Values": "Sponsor              ,"
+    "Properties": "Sponsor",
+    "Values": "EPSCOR"
   },
   {
-    "Properties ,   Values": "Data Header"
+    "Properties": "Data Header",
+    "Values": "Small data"
   },
   {
-    "Properties ,   Values": "URL"
+    "Properties": "URL",
+    "Values": "www.sultana.cs.unm.edu:3000"
   },
   {
-    "Properties ,   Values": "Sponsor            ,"
+    "Properties": "Sponsor",
+    "Values": "EPSCOR"
   }
 ]
