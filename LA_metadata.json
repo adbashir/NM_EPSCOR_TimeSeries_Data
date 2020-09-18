@@ -1,0 +1,62 @@
+[
+  {
+    "Properties": "Start Date",
+    "Values": "May 2013"
+  },
+  {
+    "Properties": "End Date",
+    "Values": "Dec 2019"
+  },
+  {
+    "Properties": "Instances",
+    "Values": "400 Million"
+  },
+  {
+    "Properties": "",
+    "Values": "Frequency / Resolution"
+  },
+  {
+    "Properties": "Data Type",
+    "Values": "Float"
+  },
+  {
+    "Properties": "Data Description",
+    "Values": "Multivariate Time Series"
+  },
+  {
+    "Properties": "Data Collection Points (Meter)",
+    "Values": 1658
+  },
+  {
+    "Properties": "Physical Location of Sensor",
+    "Values": "Los Alamos Utility"
+  },
+  {
+    "Properties": "ata Location",
+    "Values": "University of New Mexico"
+  },
+  {
+    "Properties": "Creator",
+    "Values": "Trilce P. Estrada"
+  },
+  {
+    "Properties": "Creator (Organization)",
+    "Values": "University of New Mexico"
+  },
+  {
+    "Properties": "Sponsor",
+    "Values": "EPSCOR"
+  },
+  {
+    "Properties": "Data Header",
+    "Values": "Instance ID - Time - Value"
+  },
+  {
+    "Properties": "URL",
+    "Values": "www.sultana.cs.unm.edu:3000"
+  },
+  {
+    "Properties": "Sponsor",
+    "Values": "EPSCOR"
+  }
+]
